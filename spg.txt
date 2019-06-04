@@ -1,0 +1,48 @@
+
+// Hvem bliver størst?
+// Hvem bliver mindst?
+// Hvem bliver fuldest til valgfesten?
+// Hvem siger noget dumt med mikrofon på?
+
+
+// Værterne:
+// Hvilken farve slips har de på?
+// Hvilket navn får de sagt forkert?
+
+
+// Værterne-siger-drukspil:
+// “foreløbige resultater..”
+// “Meningsmåling”
+// “Valgkampen”
+// “Statsministerkandidaterne”
+
+
+"Stram kurs får 0 mandater",
+"Stram kurs får 1 mandat",
+"Stram kurs får over 1 mandat :(",
+"DF går mellem 0-5% tilbage",
+"DF går mellem 5-10% tilbage",
+"DF går mellem 10%  eller mere tilbage",
+"Social demokraterne bliver Danmarks største parti",
+"Venstre bliver Danmarks største parti",
+"Radikale venstre bliver Danmarks største parti",
+"Konservative bliver Danmarks største parti",
+"SF bliver Danmarks største parti",
+"Enhedslisten bliver Danmarks største parti",
+"Dansk folkeparti bliver Danmarks største parti",
+"Nye borgerlige bliver Danmarks mindste parti",
+"Klaus Riskær Pedersen bliver Danmarks mindste parti",
+"Kristendemokraterne bliver Danmarks mindste parti",
+"Stram kurs bliver Danmarks mindste parti",
+"Alternativet bliver Danmarks mindste parti",
+"En af værterne har rødt slips på",
+"En af værterne har blåt slips på",
+"En af værterne har grønt slips på",
+"En af værterne har lilla slips på",
+"Værten fucker et navn op",
+"Fuld partileder",
+"Gråd på TV",
+"Exitpolls tager meget fejl(hej DR)",
+"Rød regering",
+"Blå regering",
+"Anden konstalletion end rød eller blå regering"
