@@ -20,8 +20,28 @@ body {
     width: 20%;
     }
     #free, .pickedBG {
-    background-color: #f66;
+    background-color: wheat;
     }
     .winningBG {
     background-image:url(images/redFlash.gif);
+    }
+    table {
+        border-collapse:separate;
+        border:solid black 1px;
+        border-radius:6px;
+        -moz-border-radius:6px;
+    }
+    
+    td, th {
+        border-left:solid black 1px;
+        border-top:solid black 1px;
+    }
+    
+    th {
+        background-color: blue;
+        border-top: none;
+    }
+    
+    td:first-child, th:first-child {
+         border-left: none;
     }
