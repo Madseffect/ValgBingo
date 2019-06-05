@@ -19,8 +19,12 @@ body {
     text-align: center;
     width: 20%;
     }
-    #free, .pickedBG {
-    background-color: wheat;
+    #free{
+        background-color: wheat;
+        }
+
+     .pickedBG {
+    background-color: green;
     }
     .winningBG {
     background-image:url(images/redFlash.gif);
